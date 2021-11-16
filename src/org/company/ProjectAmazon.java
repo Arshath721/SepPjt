@@ -8,8 +8,9 @@ public class ProjectAmazon {
 	}
 
 	public static void main(String[] args) {
-
+		
 		System.out.println("code of EmpA");
+		System.out.println("code of EmpA 2");
 
 	}
 }
